@@ -35,8 +35,8 @@ app_links:
     type: web
 isBasedOnUrl: 'https://youtu.be/mG14prER74M'
 title: Sustainable Personality
-datePublished: '2015-12-21T16:57:00.834Z'
-dateModified: '2015-12-21T16:57:00.065Z'
+datePublished: '2015-12-21T16:57:01.828Z'
+dateModified: '2015-12-21T16:57:00.834Z'
 sourcePath: _posts/2015-12-21-sustainable-personality.md
 published: true
 inFeed: true
