@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Robertlindberg.me]]></title>
+        <description><![CDATA[Robertlindberg.me]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 18 Jan 2016 14:32:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sustainable Personality]]></title>
+            <description><![CDATA[<article><h1>Sustainable Personality</h1><p>This is the introduction and explanation to Sustainable Personality.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bfa440aa2a31ae9e728111a389c00cf9007be57f.jpg"></article>]]></description>
+            <link>https://youtu.be/mG14prER74M</link>
+            <guid isPermaLink="false">511133ba-19fe-4b27-8d01-7eeaded01890</guid>
+            <pubDate>Mon, 18 Jan 2016 14:31:17 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
