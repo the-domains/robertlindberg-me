@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Robertlindberg.me]]></title>
         <description><![CDATA[Robertlindberg.me]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/robertlindberg-me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 14:37:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 18 Jan 2016 14:39:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/robertlindberg-me/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sustainable Personality - Bring On The Gender Equality]]></title>
+            <description><![CDATA[<article><h1>Sustainable Personality - Bring On The Gender Equality</h1><p>First we expose the root cause, the symptoms and talk about the solutions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d3a514ed97f45136cea5cd8f784156e2a19f95fb.jpg"></article>]]></description>
+            <link>https://youtu.be/X1dgkiJdb88</link>
+            <guid isPermaLink="false">044164be-da7d-4bc0-a57c-3fa0f0180da2</guid>
+            <pubDate>Mon, 18 Jan 2016 14:39:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sustainable Personality - Listening, Reflection & Dialogue]]></title>
             <description><![CDATA[<article><h1>Sustainable Personality - Listening, Reflection & Dialogue</h1><p>Listening, Reflection and Dialogue are the foundational tools for a sustainable personality.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe97a7757b39813073095e434cc4858796dcedff.jpg"></article>]]></description>
