@@ -1,18 +1,18 @@
 analytics: {}
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#000000'
+    - '#000000'
+    - '#000000'
+    - '#000000'
+    - '#000000'
   brandStrength: 0.43880392191931605
   lightness: 0.21008050465025008
   rhythmicContrast: 0.32848995784297585
   saturation: 0.6903319326229393
 cta: {}
-layout_spectrum: 0.398649
+layout_spectrum: 0.005068
 name: Robertlindberg.me
 opengraph: {}
 purpose: []
-typography_spectrum: 0.586148
+typography_spectrum: 0.795608
