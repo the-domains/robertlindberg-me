@@ -6,10 +6,10 @@ color:
     - '#000000'
     - '#000000'
     - '#000000'
-  brandStrength: 0.43880392191931605
-  lightness: 0.21008050465025008
-  rhythmicContrast: 0.32848995784297585
-  saturation: 0.6903319326229393
+  brandStrength: 0.438803
+  lightness: 0.21008
+  rhythmicContrast: 0.498311
+  saturation: 0.690331
 cta: {}
 layout_spectrum: 0.403716
 name: Robertlindberg.me
