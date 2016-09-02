@@ -1,4 +1,15 @@
+name: Sustainable Personality
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/40b162a8-9dc0-456a-a539-d66c8792645f.png
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ffad6387-85cd-460e-a921-ac150dac73e8.png
+layout_spectrum: 0.209459
+typography_spectrum: 0.795608
+cta: {}
 analytics: {}
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#000000'
@@ -8,11 +19,13 @@ color:
     - '#000000'
   brandStrength: 0.438803
   lightness: 0.21008
-  rhythmicContrast: 0.498311
   saturation: 0.690331
-cta: {}
-layout_spectrum: 0.209459
-name: Robertlindberg.me
-opengraph: {}
+  rhythmicContrast: 0.498311
 purpose: []
-typography_spectrum: 0.795608
+title: 'Social Norm Awareness '
+author:
+  name: ''
+  url: ''
+  email: ''
+content_rating:
+  adult: false
